@@ -76,7 +76,7 @@ Just **Paste → Run → Build APK**
 HTML-to-APK/
 
 │
-├── apk_generator.py
+├── app.py
 ├── README.md
 ├── icon.png
 ├── assets/
@@ -91,7 +91,7 @@ HTML-to-APK/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/html-to-apk-generator.git
+git clone https://github.com/Nadhilken/html-to-apk.git
 ```
 
 ---
@@ -149,7 +149,7 @@ Your App Name
 ## 5️⃣ Run
 
 ```bash
-python apk_generator.py
+python app.py
 ```
 
 ---
